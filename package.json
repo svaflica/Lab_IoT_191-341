@@ -1,0 +1,19 @@
+{
+  "name": "lab_iot_191-341",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svaflica/Lab_IoT_191-341.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svaflica/Lab_IoT_191-341/issues"
+  },
+  "homepage": "https://github.com/svaflica/Lab_IoT_191-341#readme"
+}
