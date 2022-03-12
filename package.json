@@ -2,7 +2,7 @@
   "name": "lab_iot_191-341",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/svaflica/Lab_IoT_191-341/issues"
   },
-  "homepage": "https://github.com/svaflica/Lab_IoT_191-341#readme"
+  "homepage": "https://github.com/svaflica/Lab_IoT_191-341#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
